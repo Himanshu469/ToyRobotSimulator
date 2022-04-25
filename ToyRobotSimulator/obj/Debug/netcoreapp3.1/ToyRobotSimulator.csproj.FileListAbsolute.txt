@@ -1,0 +1,13 @@
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.exe
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.deps.json
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.runtimeconfig.json
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.runtimeconfig.dev.json
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.dll
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.pdb
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.AssemblyInfoInputs.cache
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.AssemblyInfo.cs
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.dll
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.pdb
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.genruntimeconfig.cache
+C:\Users\310285100\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.csprojAssemblyReference.cache
